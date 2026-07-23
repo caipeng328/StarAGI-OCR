@@ -14,7 +14,7 @@
 
 ## 🔥 News
 
-- **2026/08** Release of **StarAGI-OCR-1B**
+- **2026/08** Release of **StarAGI-OCR-1B** weights & technical report
 
 ---
 
@@ -42,6 +42,14 @@ These techniques enable StarAGI-OCR to achieve state-of-the-art performance on b
 <div align="center">
 
 <img src="assets/data_engine.png" width="100%">
+
+</div>
+
+# Progressive Training
+
+<div align="center">
+
+<img src="assets/model.png" width="100%">
 
 </div>
 
