@@ -86,6 +86,22 @@ StarAGI-OCR is trained in four stages.
 | PaddleOCR-VL | XX.X |
 | MinerU2.5 | XX.X |
 
+## PureDocBench
+
+| Model | Score |
+|-------|------:|
+| StarAGI-OCR | XX.X |
+| PaddleOCR-VL | XX.X |
+| MinerU2.5 | XX.X |
+
+## ICDAR2026 Sci-ImageMiner
+
+| Model | Score |
+|-------|------:|
+| StarAGI-OCR | XX.X |
+
+
+
 <!-- --- -->
 <!-- 
 # Architecture
