@@ -1,0 +1,1 @@
+# StarAGI-OCR: Unified Document Parsing for Digital and Camera-Captured Documents
